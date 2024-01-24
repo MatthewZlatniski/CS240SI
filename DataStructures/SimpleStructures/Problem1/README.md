@@ -1,13 +1,13 @@
 # File to Struct - C Programming Problem
 ## Table of Content
-- [Problem Statement](#Problem Statement)
+- [Problem](#Problem)
 - [Objective](#Objective)
 - [Existing Code Review](#Existing Code Review)
 - [read_data()](#read_data(char * filename) Function Description)
 - [filter_by_brand](#filter_by_brand(char * brand) Function Description)
 - [Testing](#Testing)
 
-## Problem Statement
+## Problem
 
 You are provided with a C program named `file_to_struct.c`. The program is designed to read car data from a file into a struct array and allows filtering of entries based on a specified brand. However, the `read_data` and `filter_by_brand` functions are incomplete.
 
