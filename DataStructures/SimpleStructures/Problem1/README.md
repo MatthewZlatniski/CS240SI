@@ -4,7 +4,7 @@
 - [Objective](#Objective)
 - [Template](#Template)
 - [read_data()](#read_data())
-- [filter_by_brand](#filter_by_brand())
+- [filter_by_brand()](#filter_by_brand())
 - [Testing](#Testing)
 
 ## Problem
