@@ -31,6 +31,8 @@ int read_data(char * filename) {
 	for (int i = 0; (res = fscanf(fp, "%s | %s | %d | %d", brand, model, &year, &price)) != EOF; i++) {
 		if (res != 4) {
 			printf("Invalid File Format\n");
+			fclose(fp);
+			fp = NULL;
 			return -1;
 		}
 
