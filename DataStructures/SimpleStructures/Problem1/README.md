@@ -1,6 +1,6 @@
 # File to Struct - C Programming Problem
 ## Table of Content
-- [Problem Statement](#Problem Statment)
+- [Problem Statement](#Problem Statement)
 - [Objective](#Objective)
 - [Existing Code Review](#Existing Code Review)
 - [read_data()](#read_data(char * filename) Function Description)
