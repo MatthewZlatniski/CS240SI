@@ -27,6 +27,8 @@ Complete the `read_data` function to correctly read car data from the file. Ensu
 
 You should open the file that was passed as an argument. Then read the lines of the file while storing the contents in the global car array. If a file is misformatted, print an error statement and return -1. On success return 0.
 
+file format can be seen in cars1.txt and cars2.txt
+
 ## filter_by_brand()
 
 The `filter_by_brand` function is responsible for filtering and printing entries based on a specified brand passed as an argument.
