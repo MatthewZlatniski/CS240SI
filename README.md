@@ -14,8 +14,6 @@ This collection of practice problems is designed to help students reinforce thei
 
 This repository contains a set of practice problems created specifically for CS240 Supplemental Instruction. The problems cover a range of topics within CS240, providing students with the opportunity to practice and reinforce their knowledge.
 
-Solutions will not be posted but will be shown to or given to students who attend SI.
-
 ## Directory Structure
 
 The problems are organized into directories based on topics covered in CS240. The directory structure is as follows:
